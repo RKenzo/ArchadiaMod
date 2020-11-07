@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="179fa940-c884-4c13-b21c-8db7ac499d3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectId" id="1jg7UDvp771SgyXEFAqi8HGq1gk" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backpacks+1.7.10+-+3.5.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\gui" />
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\items" />
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\blocks" />
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\ArchadiaMod\textures\items" />
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\ArchadiaMod\textures" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.network.archadia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Client">
+    <configuration default="true" factoryName="Applet" type="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option enabled="false" name="BuildArtifacts" />
+        <option enabled="true" name="Make" />
+      </method>
+    </configuration>
+    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Minecraft Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <module name="ArchadiaMod" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration name="Minecraft Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <module name="ArchadiaMod" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../mode\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mode" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179fa940-c884-4c13-b21c-8db7ac499d3a" name="Default Changelist" comment="" />
+      <created>1604213896997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604213896997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2129" y="1375" key="#Inspections" timestamp="1604245345937">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2129" y="1375" key="#Inspections/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604245345937" />
+    <state x="519" y="100" key="#Project_Structure" timestamp="1604213998088">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="519" y="100" key="#Project_Structure/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604213998088" />
+    <state x="1957" y="1351" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604272616242">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="1957" y="1351" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604272616242" />
+    <state x="1037" y="507" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604219123779">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="1037" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219123779" />
+    <state x="2312" y="1176" key="#com.intellij.ide.util.MemberChooser" timestamp="1604744462257">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2312" y="1176" key="#com.intellij.ide.util.MemberChooser/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604744462257" />
+    <state x="2466" y="1176" key="#com.intellij.ide.util.MemberChooser/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604492646292" />
+    <state x="2232" y="1486" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604270830292">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2232" y="1486" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604270830292" />
+    <state x="2559" y="1268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604481789192">
+      <screen x="0" y="0" width="4096" height="2130" />
+    </state>
+    <state x="2399" y="1268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604220487553" />
+    <state x="2559" y="1268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604481789192" />
+    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604555243270">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="1477" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219365975" />
+    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604555243270" />
+    <state x="1480" y="568" key="FileChooserDialogImpl" timestamp="1604745346597">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604213942536" />
+    <state x="1480" y="568" key="FileChooserDialogImpl/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604745346597" />
+    <state width="1558" height="394" key="GridCell.Tab.0.bottom" timestamp="1604784993276">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1872" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
+    <state width="1225" height="220" key="GridCell.Tab.0.bottom/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
+    <state width="1558" height="394" key="GridCell.Tab.0.bottom/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="1872" height="291" key="GridCell.Tab.0.bottom/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759871" />
+    <state width="1558" height="394" key="GridCell.Tab.0.center" timestamp="1604784993276">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1872" height="291" key="GridCell.Tab.0.center/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
+    <state width="1225" height="220" key="GridCell.Tab.0.center/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
+    <state width="1558" height="394" key="GridCell.Tab.0.center/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="1872" height="291" key="GridCell.Tab.0.center/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759870" />
+    <state width="1558" height="394" key="GridCell.Tab.0.left" timestamp="1604784993276">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1872" height="291" key="GridCell.Tab.0.left/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199307" />
+    <state width="1225" height="220" key="GridCell.Tab.0.left/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671548" />
+    <state width="1558" height="394" key="GridCell.Tab.0.left/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="1872" height="291" key="GridCell.Tab.0.left/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759870" />
+    <state width="1558" height="394" key="GridCell.Tab.0.right" timestamp="1604784993276">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state width="1872" height="291" key="GridCell.Tab.0.right/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
+    <state width="1225" height="220" key="GridCell.Tab.0.right/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
+    <state width="1558" height="394" key="GridCell.Tab.0.right/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="1872" height="291" key="GridCell.Tab.0.right/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759871" />
+    <state x="1987" y="1035" key="SettingsEditor" timestamp="1604247561922">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="1987" y="1035" key="SettingsEditor/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604247561922" />
+    <state x="1695" y="1103" width="966" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604741950250">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="1695" y="1103" width="966" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604741950250" />
+    <state x="2303" y="1308" width="1341" height="1406" key="dock-window-1" timestamp="1604474010797">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2303" y="1308" width="1341" height="1406" key="dock-window-1/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604474010797" />
+    <state x="1949" y="740" width="1641" height="1797" key="dock-window-2" timestamp="1604485049387">
+      <screen x="0" y="0" width="4096" height="2130" />
+    </state>
+    <state x="1949" y="740" width="1641" height="1797" key="dock-window-2/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604485049387" />
+    <state x="2187" y="1203" width="585" height="801" key="find.popup" timestamp="1604554600092">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="2187" y="1203" width="585" height="801" key="find.popup/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604554600092" />
+    <state x="1885" y="1317" key="new project wizard" timestamp="1604247142990">
+      <screen x="0" y="0" width="3840" height="2130" />
+    </state>
+    <state x="1885" y="1317" key="new project wizard/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604247142990" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="cpw.mods.fml.common.LoaderException" package="cpw.mods.fml.common" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

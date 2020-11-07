@@ -1,0 +1,16 @@
+[
+{
+  "modid": "archadiamod",
+  "name": "Archadia Mod",
+  "description": "Mod de gemas do archadia para economia.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bliinkyi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
