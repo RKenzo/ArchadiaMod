@@ -1,7 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="179fa940-c884-4c13-b21c-8db7ac499d3a" name="Default Changelist" comment="" />
+    <list default="true" id="179fa940-c884-4c13-b21c-8db7ac499d3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/BlockOreGem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mode.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/mode.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mode.iws" beforeDir="false" afterPath="$PROJECT_DIR$/mode.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockalexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockblackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockcitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockgarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockjade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockjasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockmalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockrosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blocksapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockspinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blocksugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blocktanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blocktopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blocktourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockturquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/blockzircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orealexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreblackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orecitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oregarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orejade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orejasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oremalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orerosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oresapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orespinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oresugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oretanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oretopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oretourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/oreturquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/blocks/orezircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaalexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemablackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemacitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemagarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemajade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemajasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemamalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemarosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemasapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemaspinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemasugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gematanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gematopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gematourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gematurquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/gemazircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/assets/arcmod/textures/items/portajoias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/BlockRuby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockAlexandrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockAmber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockAmethyst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockAquamarine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockBlackOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockCitrine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockGarnet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockJade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockJasper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockMalachite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockOnyx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockPeridot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockRoseQuartz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockSapphire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockSpinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockSugilite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockTanzanite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockTopaz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockTourmaline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockTurquoise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/blockZircon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreAlexandrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreAmber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreAmethyst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreAquamarine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreBlackOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreCitrine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreGarnet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreJade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreJasper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreMalachite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreOnyx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/orePeridot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreRoseQuartz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreRuby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreSapphire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreSpinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreSugilite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreTanzanite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreTopaz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreTourmaline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreTurquoise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Blocks/oreZircon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/CreativeTabs/CreativeTabs$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/CreativeTabs/CreativeTabs$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaAlexandrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaAmber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaAmethyst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaAquamarine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaBlackOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaCitrine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaGarnet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaJade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaJasper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaMalachite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaOnyx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaOpal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaPeridot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaRoseQuartz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaRuby.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaSapphire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaSpinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaSugilite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaTanzanite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaTopaz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaTourmaline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaTurquoiuse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/gemaZircon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/goldKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/Items/portajoias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModBlocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModRecipes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/ModRecipes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/container/ContainerBackpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/container/ContainerBackpack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/gui/guiBackpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/gui/guiBackpack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/handler/GuiHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/handler/GuiHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/handler/KeyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/inventory/InventoryBackpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/inventory/InventoryBackpack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/AbstractPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/AbstractPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/OpenGuiPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/OpenGuiPacket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/PacketPipeline$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/PacketPipeline$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/PacketPipeline$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/PacketPipeline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/packet/PacketPipeline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/proxy/ClientProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/proxy/CommonProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArchadiaMod/me/network/archadia/proxy/CommonProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/BlockRuby.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/BlockGem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockAlexandrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockAmber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockAmethyst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockAquamarine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockBlackOpal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockCitrine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockGarnet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockJade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockJasper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockMalachite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockOnyx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockOpal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockPeridot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockRoseQuartz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockSapphire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockSpinel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockSugilite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockTanzanite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockTopaz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockTourmaline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockTurquoise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/blockZircon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreAlexandrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreAmber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreAmethyst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreAquamarine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreBlackOpal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreCitrine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreGarnet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreJade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreJasper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreMalachite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreOnyx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreOpal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/orePeridot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreRoseQuartz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreRuby.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreSapphire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreSpinel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreSugilite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreTanzanite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreTopaz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreTourmaline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreTurquoise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Blocks/oreZircon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaAlexandrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaAmber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaAmethyst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaAquamarine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaBlackOpal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaCitrine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaGarnet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaJade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaJasper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaMalachite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaOnyx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaOpal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/ItemGem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaPeridot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaRoseQuartz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaRuby.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaSapphire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaSpinel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaSugilite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaTanzanite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaTopaz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaTourmaline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaTurquoiuse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/gemaZircon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/goldKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/ItemGoldKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/portajoias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/Items/ItemBackpack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModRecipes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/ModRecipes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/OresGeneration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/OresGeneration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/container/ContainerBackpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/container/ContainerBackpack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/gui/guiBackpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/gui/GuiBackpack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/handler/GuiHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/handler/GuiHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/handler/KeyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/inventory/InventoryBackpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/inventory/InventoryBackpack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/AbstractPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/AbstractPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/OpenGuiPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/OpenGuiPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/PacketPipeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/packet/PacketPipeline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/proxy/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/proxy/ClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/network/archadia/proxy/CommonProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/network/archadia/proxy/CommonProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/arcmod/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockalexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockblackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockcitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockgarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockjade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockjasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockmalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockrosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blocksapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockspinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blocksugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blocktanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blocktopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blocktourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockturquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/blockzircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orealexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreblackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orecitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oregarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orejade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orejasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oremalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orerosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oresapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orespinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oresugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oretanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oretopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oretourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/oreturquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/blocks/orezircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaalexandrite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaamber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaamethyst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaaquamarine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemablackopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemacitrine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemagarnet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemajade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemajasper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemamalachite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaonyx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaopal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaperidot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemarosequartz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemasapphire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemaspinel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemasugilite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gematanzanite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gematopaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gematourmaline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gematurquoise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/gemazircon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/goldkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/items/portajoias.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +390,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
@@ -74,21 +413,24 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backpacks+1.7.10+-+3.5.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/arcmod/textures/gui" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="me.network.archadia" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\gui" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\" />
       <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\gui" />
       <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\items" />
       <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\arcmod\textures\blocks" />
       <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\ArchadiaMod\textures\items" />
-      <recent name="C:\Users\RKenzo\Desktop\mode\src\main\resources\assets\ArchadiaMod\textures" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="me.network.archadia" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
@@ -258,6 +600,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
@@ -293,43 +647,48 @@
     </state>
     <state x="2399" y="1268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604220487553" />
     <state x="2559" y="1268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604481789192" />
-    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604555243270">
+    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604916205834">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state x="1477" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219365975" />
-    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604555243270" />
-    <state x="1480" y="568" key="FileChooserDialogImpl" timestamp="1604745346597">
+    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.2130/3840.1243.1440.870@0.0.3840.2130" timestamp="1604916205834" />
+    <state x="2216" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604880967069" />
+    <state x="1480" y="568" key="FileChooserDialogImpl" timestamp="1604792509348">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604213942536" />
-    <state x="1480" y="568" key="FileChooserDialogImpl/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604745346597" />
-    <state width="1558" height="394" key="GridCell.Tab.0.bottom" timestamp="1604784993276">
+    <state x="1480" y="568" key="FileChooserDialogImpl/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604792509348" />
+    <state width="2001" height="341" key="GridCell.Tab.0.bottom" timestamp="1605188363638">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state width="1872" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
     <state width="1225" height="220" key="GridCell.Tab.0.bottom/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
-    <state width="1558" height="394" key="GridCell.Tab.0.bottom/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="2001" height="341" key="GridCell.Tab.0.bottom/0.0.3840.2130/3840.1243.1440.870@0.0.3840.2130" timestamp="1605188363638" />
+    <state width="1558" height="394" key="GridCell.Tab.0.bottom/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604793783610" />
     <state width="1872" height="291" key="GridCell.Tab.0.bottom/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759871" />
-    <state width="1558" height="394" key="GridCell.Tab.0.center" timestamp="1604784993276">
+    <state width="2001" height="341" key="GridCell.Tab.0.center" timestamp="1605188363638">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state width="1872" height="291" key="GridCell.Tab.0.center/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
     <state width="1225" height="220" key="GridCell.Tab.0.center/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
-    <state width="1558" height="394" key="GridCell.Tab.0.center/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="2001" height="341" key="GridCell.Tab.0.center/0.0.3840.2130/3840.1243.1440.870@0.0.3840.2130" timestamp="1605188363638" />
+    <state width="1558" height="394" key="GridCell.Tab.0.center/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604793783610" />
     <state width="1872" height="291" key="GridCell.Tab.0.center/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759870" />
-    <state width="1558" height="394" key="GridCell.Tab.0.left" timestamp="1604784993276">
+    <state width="2001" height="341" key="GridCell.Tab.0.left" timestamp="1605188363637">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state width="1872" height="291" key="GridCell.Tab.0.left/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199307" />
     <state width="1225" height="220" key="GridCell.Tab.0.left/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671548" />
-    <state width="1558" height="394" key="GridCell.Tab.0.left/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="2001" height="341" key="GridCell.Tab.0.left/0.0.3840.2130/3840.1243.1440.870@0.0.3840.2130" timestamp="1605188363637" />
+    <state width="1558" height="394" key="GridCell.Tab.0.left/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604793783610" />
     <state width="1872" height="291" key="GridCell.Tab.0.left/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759870" />
-    <state width="1558" height="394" key="GridCell.Tab.0.right" timestamp="1604784993276">
+    <state width="2001" height="341" key="GridCell.Tab.0.right" timestamp="1605188363638">
       <screen x="0" y="0" width="3840" height="2130" />
     </state>
     <state width="1872" height="291" key="GridCell.Tab.0.right/0.0.1920.1050/1920.175.1440.870@0.0.1920.1050" timestamp="1604479199308" />
     <state width="1225" height="220" key="GridCell.Tab.0.right/0.0.2560.1409/3840.175.1440.870@0.0.2560.1409" timestamp="1604219671549" />
-    <state width="1558" height="394" key="GridCell.Tab.0.right/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604784993276" />
+    <state width="2001" height="341" key="GridCell.Tab.0.right/0.0.3840.2130/3840.1243.1440.870@0.0.3840.2130" timestamp="1605188363638" />
+    <state width="1558" height="394" key="GridCell.Tab.0.right/0.0.3840.2130/3840.175.1440.870@0.0.3840.2130" timestamp="1604793783610" />
     <state width="1872" height="291" key="GridCell.Tab.0.right/0.0.4096.2130/4096.175.1440.870@0.0.4096.2130" timestamp="1604491759871" />
     <state x="1987" y="1035" key="SettingsEditor" timestamp="1604247561922">
       <screen x="0" y="0" width="3840" height="2130" />

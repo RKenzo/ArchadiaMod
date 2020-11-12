@@ -1,17 +1,18 @@
 package me.network.archadia.proxy;
 
-import cpw.mods.fml.client.registry.RenderingRegistry;
-import cpw.mods.fml.common.FMLCommonHandler;
-import me.network.archadia.handler.KeyHandler;
+import io.netty.channel.*;
+import me.network.archadia.packet.*;
+import net.minecraft.client.*;
+import net.minecraft.client.entity.*;
 
-public class ClientProxy extends CommonProxy{
+public class ClientProxy extends CommonProxy {
 
-    public void registerProxies(){
-        FMLCommonHandler.instance().bus().register(new KeyHandler());
+    public void registerProxies() {
     }
 
-    public int addArmor(String armor){
-        return RenderingRegistry.addNewArmourRendererPrefix(armor);
+    @Override
+    public void handlePacketWithPlayer(ChannelHandlerContext ctx, AbstractPacket abstractPacket) {
+        final EntityClientPlayerMP thePlayer = Minecraft.getMinecraft().thePlayer;
+        abstractPacket.handleClientSide(thePlayer);
     }
-
 }

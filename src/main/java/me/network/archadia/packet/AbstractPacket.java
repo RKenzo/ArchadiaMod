@@ -1,3 +1,4 @@
+
 package me.network.archadia.packet;
 
 import io.netty.buffer.ByteBuf;
@@ -15,6 +16,4 @@ public abstract class AbstractPacket {
     public abstract void handleServerSide(EntityPlayer player);
 
 }
-
-
 

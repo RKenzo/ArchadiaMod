@@ -4,8 +4,6 @@ import cpw.mods.fml.common.network.internal.FMLNetworkHandler;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import me.network.archadia.ArchadiaMod;
-import me.network.archadia.gui.guiBackpack;
-import net.minecraft.client.Minecraft;
 import net.minecraft.entity.player.EntityPlayer;
 
 public class OpenGuiPacket extends AbstractPacket{
@@ -28,14 +26,12 @@ public class OpenGuiPacket extends AbstractPacket{
 
     @Override
     public void handleClientSide(EntityPlayer player) {
-
+        System.out.println("Client");
     }
 
     @Override
     public void handleServerSide(EntityPlayer player) {
-        System.out.println("PASSOU?");
-        Minecraft.getMinecraft().displayGuiScreen(new guiBackpack());
+        System.out.println("Server");
         FMLNetworkHandler.openGui(player, ArchadiaMod.instance, id, player.worldObj, (int)player.posX,(int)player.posY,(int)player.posZ);
-
     }
 }
